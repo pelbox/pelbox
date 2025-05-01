@@ -49,9 +49,10 @@ Whether it's building a marketing automation system, a custom plugin for WordPre
 
 ## 📫 Let’s Connect!
 
+- <img src="https://github.com/user-attachments/assets/645881bc-717e-42d8-9896-716bee8ae5c7" height="24" valign="middle"  /> [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - 🔗 [My Portfolio Website](https://pelbox.com)
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01648fb3d87e46699f/)
-- 📧 [Linkedin](https://www.linkedin.com/in/codedecode/):
+
 
 Thanks for stopping by — feel free to explore my repos and don’t hesitate to reach out if you’d like to collaborate!
 
