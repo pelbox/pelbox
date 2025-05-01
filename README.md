@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hello there! I'm a Senior Full Stack Web Developer
 
-Welcome to my GitHub profile! I'm a **Top-Rated Freelancer on Upwork** 🏆 and a passionate web developer with over **12 years** of hands-on experience in building powerful, scalable, and user-friendly web applications.
+Welcome to my GitHub profile! I'm a **Top-Rated Freelancer on Upwork** 🏆 🤖 AI Enthusiast and a passionate web developer with over **12 years** of hands-on experience in building powerful, scalable, and user-friendly web applications.
 
 ## 🚀 What I Do
 
@@ -38,6 +38,7 @@ Whether it's building a marketing automation system, a custom plugin for WordPre
 - 🔄 Mautic marketing automation workflows, Plugins.theme development 
 - 🛠️ Symfony & Laravel web apps
 - ⚙️ REST API integrations
+- 🤖 Ai integration
 - ✨ UI/UX with Vue.js, Jquery, Javascript, HTML5, Css3
 
 ## 📈 Why Work With Me?
