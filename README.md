@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hello there! I'm a Senior Full Stack Web Developer
 
-Welcome to my GitHub profile! I'm a **Top-Rated Freelancer on Upwork** 🏆 🤖 AI Enthusiast and a passionate web developer with over **12 years** of hands-on experience in building powerful, scalable, and user-friendly web applications.
+Welcome to my GitHub profile! I'm a **Top-Rated Freelancer on Upwork** 🏆 🤖 AI Enthusiast and a passionate web developer with over **14 years** of hands-on experience in building powerful, scalable, and user-friendly web applications.
 
 ## 🚀 What I Do
 
