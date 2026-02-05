@@ -82,8 +82,11 @@ I lead and build **end-to-end products** — from architecture and backend syste
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pelbox&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=pelbox&theme=tokyonight&hide_border=true" height="160" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pelbox&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pelbox&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 
