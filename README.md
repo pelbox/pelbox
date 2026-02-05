@@ -82,7 +82,7 @@ I lead and build **end-to-end products** — from architecture and backend syste
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pelbox&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pelbox&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
   <img src="https://streak-stats.demolab.com?user=pelbox&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
