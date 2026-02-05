@@ -1,7 +1,7 @@
-# 👋 Hey, I’m a Tech Lead | Full Stack & AI Solutions 🚀
+# 👋 Hey, I’m a Tech Lead | Full Stack & AI Architect 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Tech+Lead+%7C+Full+Stack+Engineer;AI+%26+Automation+Specialist;Vibe+Coding+Production-Ready+Apps;14%2B+Years+Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Tech+Lead+%7C+Full+Stack+%26+AI+Architect;Designing+Scalable+Web+%26+AI+Systems;AI+Agents+%7C+Automation+%7C+SaaS+Platforms;14%2B+Years+Building+Production-Ready+Software;Vibe+Coding+with+Purpose" />
 </p>
 
 Welcome to my GitHub profile!  
