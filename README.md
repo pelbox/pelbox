@@ -1,60 +1,102 @@
+# 👋 Hey, I’m a Tech Lead | Full Stack & AI Solutions 🚀
 
-<!--
-**pelbox/pelbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Tech+Lead+%7C+Full+Stack+Engineer;AI+%26+Automation+Specialist;Vibe+Coding+Production-Ready+Apps;14%2B+Years+Building+Scalable+Systems" />
+</p>
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I'm a **Top-Rated Plus Freelancer on Upwork** 🏆, 🤖 **AI & Automation Enthusiast**, and a hands-on **Tech Lead** with **14+ years** of experience designing, building, and leading scalable web & AI-powered systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hello there! I'm a Senior Full Stack Web Developer
+I believe in **vibe coding** — moving fast, staying intentional, and shipping clean, maintainable solutions that actually move the business needle.
 
-Welcome to my GitHub profile! I'm a **Top-Rated Freelancer on Upwork** 🏆 🤖 AI Enthusiast and a passionate web developer with over **14 years** of hands-on experience in building powerful, scalable, and user-friendly web applications.
+---
 
-## 🚀 What I Do
+## 🧠 What I Do
 
-I'm your go-to full stack web developer — from crafting elegant front-end interfaces to building robust back-end systems.
+I lead and build **end-to-end products** — from architecture and backend systems to polished frontends and AI-driven automation.
 
-### 🧰 Tech Stack
+- 🔹 Tech leadership & system design
+- 🔹 Full stack development
+- 🔹 AI agents & LLM-powered features
+- 🔹 Marketing automation & growth tooling
+- 🔹 Turning vague ideas into production-ready software
 
-- **CMS Development:** WordPress (custom themes & plugins)
-- **Marketing Automation:** Mautic  (custom themes & plugins)  
-- **Back-End Frameworks:** Python, LangChain, PHP, Symfony, Laravel
-- **Front-End Frameworks:** Vuejs, Alpinejs, Reactjs
-- **Other Skills:** REST APIs, MySQL/PostgreSQL, TailwindCSS, Bootstrap, Git, CI/CD pipelines
+---
 
-Whether it's building a marketing automation system, a custom plugin for WordPress, or a full SaaS app — I’m here to help 💪
+## 🧰 Tech Stack
 
-## 🌍 Happy to Work On:
+### 🖥️ Front-End
+- Vue.js, React.js, Alpine.js  
+- JavaScript (ES6+), jQuery  
+- HTML5, CSS3  
+- TailwindCSS, Bootstrap  
 
-- 🎯 Full website or application development
-- 🧩 Custom WordPress plugins & themes
-- 🔄 Mautic marketing automation workflows, Plugins.theme development 
-- 🛠️ Symfony & Laravel web apps
-- ⚙️ REST API integrations
-- 🤖 Ai integration
-- ✨ UI/UX with Vue.js, Jquery, Javascript, HTML5, Css3
+### ⚙️ Back-End
+- PHP (Laravel, Symfony)  
+- Python  
+- RESTful APIs  
+- MySQL / PostgreSQL  
+
+### 🤖 AI & Automation
+- OpenAI / LLM integrations  
+- **AI Agent Development**
+- LangChain  
+- Smart chatbots & assistants  
+- Workflow & process automation  
+- AI-powered SaaS features  
+
+### 📣 CMS & Marketing Automation
+- **WordPress** (custom themes & plugins)  
+- **Mautic** (custom plugins, themes & workflows)  
+
+### 🛠️ DevOps & Engineering Practices
+- Git & GitHub  
+- CI/CD pipelines  
+- Clean architecture  
+- Scalable, well-documented codebases  
+
+---
+
+## 🌍 I’m Happy to Work On
+
+- 🎯 Full-scale web apps & SaaS platforms  
+- 🧩 Advanced WordPress plugins & themes  
+- 🔄 Mautic automation, plugins & theme development  
+- 🛠️ Laravel & Symfony applications  
+- ⚙️ API design & third-party integrations  
+- 🤖 AI integrations & AI agent systems  
+- ✨ UI/UX implementation with modern JS frameworks  
+- 🚀 Rapid prototyping & **vibe-driven product builds**
+
+---
 
 ## 📈 Why Work With Me?
 
-- 🏅 **Top Rated Plus Freelancer** on [Upwork](https://www.upwork.com/freelancers/~01648fb3d87e46699f/)
-- 💬 Clear and friendly communication
-- ⏱️ On-time delivery with clean, well-documented code
-- 💡 Always open to new ideas, feedback, and challenges
+- 🏅 **Top Rated Plus Freelancer** on Upwork  
+- 🧠 Tech lead mindset — architecture first, code second  
+- 💬 Clear, proactive, founder-friendly communication  
+- ⏱️ Reliable delivery with clean, scalable solutions  
+- 💡 I don’t just code — I help you make better product decisions  
 
-## 📫 Let’s Connect!
+---
 
-- <img src="https://github.com/user-attachments/assets/645881bc-717e-42d8-9896-716bee8ae5c7" height="24" valign="middle"  /> [LinkedIn](https://www.linkedin.com/in/codedecode/)
-- 🔗 [My Portfolio Website](https://pelbox.com)
+## 📊 GitHub Stats (because why not 😄)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pelbox&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pelbox&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+- <img src="https://github.com/user-attachments/assets/645881bc-717e-42d8-9896-716bee8ae5c7" height="24" valign="middle" /> [LinkedIn](https://www.linkedin.com/in/codedecode/)
+- 🔗 [Portfolio Website](https://pelbox.com)
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01648fb3d87e46699f/)
 
+---
 
-Thanks for stopping by — feel free to explore my repos and don’t hesitate to reach out if you’d like to collaborate!
+Thanks for stopping by — explore the repos, steal ideas, or reach out if you want to build something impactful.
 
-Happy coding! 😄
+Happy coding & good vibes ✨😄
